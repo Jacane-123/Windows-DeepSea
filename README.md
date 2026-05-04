@@ -10,8 +10,8 @@ Windows DeepSea is a fanmade concept of a windows version inspired by: <br>
 Here you will find some stuff to customize windows: <br>
  Rainmeter Skins:
   - [Longhorn SideBar](https://github.com/fediaFedia/Longhorn) (by fediaFedia)
-  - Windows DeepSea TopBar (by JacaneU)
- Programs: <br>
+  - Windows DeepSea TopBar (by JacaneU) <br>
+ Programs:
   - [Retrobar](https://retrobar.net/) (by Dremin)
   - [OpenShell menu](https://github.com/Open-Shell/Open-Shell-Menu) (by Open Shell)
 
