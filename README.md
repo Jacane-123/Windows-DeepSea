@@ -17,6 +17,10 @@ Here you will find some stuff to customize windows: <br>
   - [Retrobar](https://retrobar.net/) (by Dremin)
   - [OpenShell menu](https://github.com/Open-Shell/Open-Shell-Menu) (by Open Shell)
 
+ Wallpapers:
+  - [Windows DeepSea default wallpaper] (From Windows 7 Beta)
+  - [Sunshine Theme Wallpaper] (Photo called "SpringShine" by JacaneU)
+
 ### How do i setup all this stuff? <br>
 You have 2 options
   - there' s an Instructions.md file in this repository. Read it.
