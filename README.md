@@ -1,2 +1,26 @@
-# Windows-DeepSea
-Windows DeepSea is a fanmade concept of a windows version inspired by: windows 7, vista, longhorn, macOS X and even TV UIs from around 2010 (like OrsayOS or however does this thing is called https://www.youtube.com/watch?v=mHv-sonQu8I)
+# What is Windows DeepSea?
+Windows DeepSea is a fanmade concept of a windows version inspired by:
+ - Windows 7 
+ - Windows Vista
+ - Windows Longhorn
+ - macOS X <sub>a little bit</sub>
+ - some TV UIs from around 2010 <sub>(like OrsayOS or however *[this](https://www.youtube.com/watch?v=mHv-sonQu8I)* thing is called)</sub>
+Made by JacaneU (Jacopo Bava)
+
+# What's in this repository?
+Here you will find some stuff to customize windows:
+ Rainmeter Skins:
+  - [Longhorn SideBar](https://github.com/fediaFedia/Longhorn) (by fediaFedia)
+  - Windows DeepSea TopBar (by JacaneU)
+ Programs:
+  - [Retrobar](https://retrobar.net/) (by Dremin)
+  - [OpenShell menu](https://github.com/Open-Shell/Open-Shell-Menu) (by Open Shell)
+
+# How do i setup all this stuff?
+You have 2 options
+  - there' s an Instructions.md file in this repository. Read it.
+  - watch the [setup guide video](https://youtube.com/@jacane_u) - coming soon (maybe)
+
+# Credits
+this is a little project by [Jacopo Bava (aka JacaneU)](https://linktr.ee/bavajacopo)
+<sub>(As i already said Longhorn Sidebar, Retrobar and Openshell Menu by fediaFedia, Dremin and Openshell)</sub>
