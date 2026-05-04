@@ -18,8 +18,8 @@ Here you will find some stuff to customize windows: <br>
   - [OpenShell menu](https://github.com/Open-Shell/Open-Shell-Menu) (by Open Shell)
 
  Wallpapers:
-  - [Windows DeepSea default wallpaper] (From Windows 7 Beta)
-  - [Sunshine Theme Wallpaper] (Photo called "SpringShine" by JacaneU)
+  - Windows DeepSea default wallpaper (From Windows 7 Beta)
+  - Sunshine Theme Wallpaper (Photo called "SpringShine" by JacaneU)
 
 ### How do i setup all this stuff? <br>
 You have 2 options
