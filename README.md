@@ -27,7 +27,7 @@ You have 2 options
   - watch the [setup guide video](https://youtube.com/@jacane_u) - coming soon (maybe)
 
 ### About the TopBar
-It's a bar on top part of the desktop. It has many functionalities and it' s higly customizable! Inspired by the MacOS' s "menu bar" and by *[this](https://www.reddit.com/r/HelpMeFind/comments/1sfsl1k/i_need_help_to_know_where_this_top_bar_comes_from/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)*
+It's a bar on top part of the desktop. It has many functionalities and it' s higly customizable! Inspired by the MacOS' s "menu bar" and by *[this](https://www.reddit.com/r/HelpMeFind/comments/1sfsl1k/i_need_help_to_know_where_this_top_bar_comes_from/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)* <br>
 alr, ik it sucks, but it' s my first rainmeter skin. Also, i haven't watched any tutorial or anything, i made this just by looking at the code of some other rainmeter skins. However i think i' ll update this in the future, so it' s gonna improve over time (maybe)
 
 ### Credits <br>
