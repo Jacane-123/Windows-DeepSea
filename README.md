@@ -5,7 +5,6 @@ Windows DeepSea is a fanmade concept of a windows version inspired by: <br>
  - Windows Longhorn
  - macOS X <sub>a little bit</sub>
  - some TV UIs from around 2010 <sub>(like OrsayOS or however *[this](https://www.youtube.com/watch?v=mHv-sonQu8I)* thing is called)</sub> <br>
-Made by JacaneU (Jacopo Bava)
 
 # What's in this repository? <br>
 Here you will find some stuff to customize windows: <br>
