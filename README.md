@@ -32,6 +32,6 @@ ik it sucks, but it' s my first rainmeter skin. Also, i haven't watched any tuto
 
 ### Credits <br>
 this is a little project by [Jacopo Bava (aka JacaneU)](https://linktr.ee/bavajacopo) <br>
-<sub>(As i already said Longhorn Sidebar, Retrobar and Openshell Menu by fediaFedia, Dremin and Openshell, etc...)</sub>
+<sub>(As i already said Longhorn Sidebar by fediaFedia, Retrobar by Dremin and Openshell menu by Openshell, etc...)</sub>
 
 
