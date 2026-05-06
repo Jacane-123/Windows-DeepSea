@@ -1,4 +1,4 @@
-## Welcome to Windows DeepSea
+![## Welcome to Windows DeepSea](Logo.png)
 ### What is Windows DeepSea?
 Windows DeepSea is a fanmade concept of a windows version inspired by: <br>
  - Windows 7 
