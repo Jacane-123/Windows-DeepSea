@@ -23,7 +23,7 @@ Here you will find some stuff to customize windows: <br>
 
 ### How do i setup all this stuff? <br>
 You have 2 options
-  - there' s an Instructions.md file in this repository. Read it. - coming soon
+  - there' s an Instructions.md file in this repository. Read it.
   - watch the [setup guide video](https://youtube.com/@jacane_u) - coming soon (maybe)
 
 ### About the TopBar
